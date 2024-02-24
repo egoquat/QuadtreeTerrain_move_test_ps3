@@ -1,2 +1,2 @@
-Phyre Engine 2011 PlayStation3 version, Test object move on quadtree space partitioning algorithms.
+Object movement on quadtree space partitioning algorithms, based SonyPlayStation3 Phyre Engine, 2011.
 Purposed for recording by myself
